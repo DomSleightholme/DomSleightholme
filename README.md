@@ -17,7 +17,7 @@ My name is Dom Sleightholme and I am a second year BSc Computing & Games Develop
 
 <!-- Links to social media accounts -->
 
-[1]: https://twitter.com/Martin_Heinz_
+[1]: https://twitter.com/pixel_silver1
 [2]: https://www.linkedin.com/in/dom-sleightholme-2609bb153/
-[3]: https://thedoritodom.itch.io/
+[3]: https://pixel-silver.itch.io/
 [4]: https://mail.google.com/mail/?view=cm&source=mailto&to=[domsleightholme7@gmail.com]
