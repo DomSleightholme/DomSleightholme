@@ -1,7 +1,7 @@
 <!--![Logo Image](https://img.itch.zone/aW1nLzQwNTU1NjkucG5n/original/Le%2BVzK.png) -->
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Dom Sleightholme and I am a Game Developer at Illyriad Games. I have always had a passion for immersive experiences from games such as Jedi Fallen Order and Skyrim, these types of games to me are more like experiences and something I have passion about. I have always enjoyed using my imagination to create fun experiences such as my early days playing with Lego to taking my creativity further to develop fun exciting worlds in games such as Minecraft and Terraria.
+My name is Dom Sleightholme and I am a Unity Developer at Intractable. I have always had a passion for immersive experiences from games such as Jedi Fallen Order and Skyrim, these types of games to me are more like experiences and something I have passion about. I have always enjoyed using my imagination to create fun experiences such as my early days playing with Lego to taking my creativity further to develop fun exciting worlds in games such as Minecraft and Terraria.
 
 [![Twitter][1.2]][1][![LinkedIn][2.2]][2][![Itch.io][3.3]][3][![Portfolio][4.4]][4][![Email][5.5]][5]
 
